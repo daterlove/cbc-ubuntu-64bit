@@ -1,5 +1,5 @@
 # This dockerfile use the ubuntu image
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 # maintainer is leungwensen <leungwensen@gmail.com>
 MAINTAINER leungwensen <leungwensen@gmail.com>
